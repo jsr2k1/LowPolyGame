@@ -1,0 +1,430 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.1f1 (270dd8c3da1c) revision 2559448'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.0) 64bit' Language: 'es' Physical Memory: 8191 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity2019.4.17f1\2020.2.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Joel/Unity Projects/Test_URP_Pc
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+56743
+Successfully changed project path to: C:/Users/Joel/Unity Projects/Test_URP_Pc
+C:/Users/Joel/Unity Projects/Test_URP_Pc
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 216.02 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.1f1 (270dd8c3da1c)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity2019.4.17f1/2020.2.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Joel/Unity Projects/Test_URP_Pc/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 550 Ti (ID=0x1244)
+    Vendor:   
+    VRAM:     977 MB
+    Driver:   21.21.13.7654
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity2019.4.17f1/2020.2.1f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity2019.4.17f1/2020.2.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity2019.4.17f1/2020.2.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56912
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity2019.4.17f1/2020.2.1f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity2019.4.17f1/2020.2.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004564 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 186.85 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.458 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003806 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 202.44 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.236 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 1.85 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2420 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 116.7 MB.
+System memory in use after: 114.7 MB.
+
+Unloading 44 unused Assets to reduce memory usage. Loaded Objects now: 2835.
+Total: 6.975100 ms (FindLiveObjects: 0.602400 ms CreateObjectMapping: 0.163200 ms MarkObjects: 3.461400 ms  DeleteObjects: 2.745000 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/polyperfect/Low Poly Animated Animals/- Scenes/DEMO - cow.unity
+  artifactKey: Guid(bf62bb3a7e35e481eaf83c5958a6cd98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/Low Poly Animated Animals/- Scenes/DEMO - cow.unity using Guid(bf62bb3a7e35e481eaf83c5958a6cd98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a458970f5e6c1a1d7e73ee52fce05621') in 0.039421 seconds
+  Import took 0.048841 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004844 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 2.43 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.165 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 2.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2346 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 115.3 MB.
+System memory in use after: 113.3 MB.
+
+Unloading 39 unused Assets to reduce memory usage. Loaded Objects now: 2837.
+Total: 17.156500 ms (FindLiveObjects: 1.184500 ms CreateObjectMapping: 0.589900 ms MarkObjects: 10.127500 ms  DeleteObjects: 5.248300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 527.289642 seconds.
+  path: Assets/polyperfect/Low Poly Animated Animals/- Scenes/DEMO - deer.unity
+  artifactKey: Guid(f4263ae250cad4a7ca3ff5e9a6f15a20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/Low Poly Animated Animals/- Scenes/DEMO - deer.unity using Guid(f4263ae250cad4a7ca3ff5e9a6f15a20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8df233ac8d2270871755861c86691af3') in 0.052431 seconds
+  Import took 0.065248 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 52.810828 seconds.
+  path: Assets/polyperfect/Low Poly Animated Animals/- Scenes/DEMO - giraffe.unity
+  artifactKey: Guid(f6a95b3939ad44cb884e9c46d3e0fff6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/Low Poly Animated Animals/- Scenes/DEMO - giraffe.unity using Guid(f6a95b3939ad44cb884e9c46d3e0fff6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6177642cadc97b5986460c3fc82208f8') in 0.021723 seconds
+  Import took 0.031094 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008981 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.90 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.218 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 2.16 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2347 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 115.4 MB.
+System memory in use after: 113.4 MB.
+
+Unloading 39 unused Assets to reduce memory usage. Loaded Objects now: 2839.
+Total: 18.710900 ms (FindLiveObjects: 2.100300 ms CreateObjectMapping: 0.491600 ms MarkObjects: 11.791400 ms  DeleteObjects: 4.322300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 139.859055 seconds.
+  path: Assets/polyperfect/Low Poly Animated Animals/- Textures/Animals/Bear_Brown_COL_1k.png
+  artifactKey: Guid(98c27ec78c4194af9b8c19786ff7c1d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/Low Poly Animated Animals/- Textures/Animals/Bear_Brown_COL_1k.png using Guid(98c27ec78c4194af9b8c19786ff7c1d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2531944972cd0ca7cd9e8766b5660ec7') in 0.419745 seconds
+  Import took 0.429684 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 175.130639 seconds.
+  path: Assets/polyperfect/Low Poly Animated Animals/- Textures/Animals/Bear_Polar_COL_1k.png
+  artifactKey: Guid(f7b92ca7c1d22471b88a0078ac2ade1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/Low Poly Animated Animals/- Textures/Animals/Bear_Polar_COL_1k.png using Guid(f7b92ca7c1d22471b88a0078ac2ade1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02a9f748394b16b48e34135c598d9715') in 0.083544 seconds
+  Import took 0.091393 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.550592 seconds.
+  path: Assets/polyperfect/Low Poly Animated Animals/- Textures/Animals/Cow_COL_2k.png
+  artifactKey: Guid(ad3a4e5583c1b4852b7064a5ddcbd3bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/Low Poly Animated Animals/- Textures/Animals/Cow_COL_2k.png using Guid(ad3a4e5583c1b4852b7064a5ddcbd3bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0aa1154569efb2edf9cfd15bd9d93fd') in 0.066310 seconds
+  Import took 0.074274 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.475012 seconds.
+  path: Assets/polyperfect/Low Poly Animated Animals/- Textures/Animals/Cow_Spotty_COL_1k.png
+  artifactKey: Guid(e7f9464e9aa7b40efa115a2b784ebf41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/Low Poly Animated Animals/- Textures/Animals/Cow_Spotty_COL_1k.png using Guid(e7f9464e9aa7b40efa115a2b784ebf41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2a173a51f652ea2ea27987ef4008bb4') in 0.072674 seconds
+  Import took 0.080600 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.956537 seconds.
+  path: Assets/polyperfect/Low Poly Animated Animals/- Scenes/DEMO - cow.unity
+  artifactKey: Guid(bf62bb3a7e35e481eaf83c5958a6cd98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/Low Poly Animated Animals/- Scenes/DEMO - cow.unity using Guid(bf62bb3a7e35e481eaf83c5958a6cd98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0af9ffdf82423140472f64d4b9163e1') in 0.010190 seconds
+  Import took 0.020167 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 154.260052 seconds.
+  path: Assets/polyperfect/Low Poly Ultimate Pack/M/- Meshes_M/Animals_M/cow.fbx
+  artifactKey: Guid(2f78d31d754f1a24c85deaad007162a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/Low Poly Ultimate Pack/M/- Meshes_M/Animals_M/cow.fbx using Guid(2f78d31d754f1a24c85deaad007162a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29326fe25edfa572cd6aeea41a8e8551') in 0.573343 seconds
+  Import took 0.581949 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000428 seconds.
+  path: Assets/polyperfect/Low Poly Animated Animals/- Prefabs/Animals/Cow Black-White.prefab
+  artifactKey: Guid(8deda24c4237fd94db95aa127822ba3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/Low Poly Animated Animals/- Prefabs/Animals/Cow Black-White.prefab using Guid(8deda24c4237fd94db95aa127822ba3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '361ac5d2712a80452ab0d3656a09750f') in 0.344400 seconds
+  Import took 0.358273 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000488 seconds.
+  path: Assets/polyperfect/Low Poly Ultimate Pack/M/- Meshes_M/People_M/Rigs_M/man-cowboy_Rig.fbx
+  artifactKey: Guid(1113d1cb90001a643a9202ecc7936f77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/Low Poly Ultimate Pack/M/- Meshes_M/People_M/Rigs_M/man-cowboy_Rig.fbx using Guid(1113d1cb90001a643a9202ecc7936f77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c73f49f43ab2f2147f7f80da90325bea') in 0.117346 seconds
+  Import took 0.126069 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000439 seconds.
+  path: Assets/polyperfect/Low Poly Ultimate Pack/- Materials/Animals/Cow_Spotty.mat
+  artifactKey: Guid(736dfdf295977422ba80c66c2c7d6930) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/Low Poly Ultimate Pack/- Materials/Animals/Cow_Spotty.mat using Guid(736dfdf295977422ba80c66c2c7d6930) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54424b236fcbb4de8e13e20edc99b41c') in 0.116793 seconds
+  Import took 0.126115 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000478 seconds.
+  path: Assets/polyperfect/Low Poly Animated Animals/- Stats/Cow.asset
+  artifactKey: Guid(8251212eb0e447040bbaad411c2209a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/Low Poly Animated Animals/- Stats/Cow.asset using Guid(8251212eb0e447040bbaad411c2209a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63d97e9cc0407aa7e3bfc4f454b0b269') in 0.021949 seconds
+  Import took 0.030257 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000433 seconds.
+  path: Assets/polyperfect/Low Poly Ultimate Pack/T/- Prefabs_T/Animals_T/cow.prefab
+  artifactKey: Guid(8a25b076be3d1454ebbb2da60bccc829) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/Low Poly Ultimate Pack/T/- Prefabs_T/Animals_T/cow.prefab using Guid(8a25b076be3d1454ebbb2da60bccc829) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6be9d15b51cda74ac442697c902bf55e') in 0.139381 seconds
+  Import took 0.149204 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000624 seconds.
+  path: Assets/polyperfect/Low Poly Ultimate Pack/M/- Prefabs_M/People_M/man-cowboy.prefab
+  artifactKey: Guid(527a049fc0f3549e9979a8c8d8b0e4ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/Low Poly Ultimate Pack/M/- Prefabs_M/People_M/man-cowboy.prefab using Guid(527a049fc0f3549e9979a8c8d8b0e4ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d375b6fe7a922ca7c9efb055d649509') in 0.093883 seconds
+  Import took 0.103560 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000528 seconds.
+  path: Assets/polyperfect/Low Poly Ultimate Pack/- Materials/Animals/Cow_Brown.mat
+  artifactKey: Guid(e0410a1165b464b8c82b925f583e39e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/Low Poly Ultimate Pack/- Materials/Animals/Cow_Brown.mat using Guid(e0410a1165b464b8c82b925f583e39e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c4f588b6d94d9b587c6d3cc9c48f8a4') in 0.094871 seconds
+  Import took 0.104328 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000423 seconds.
+  path: Assets/polyperfect/Low Poly Ultimate Pack/M/- Prefabs_M/Animals_M/cow.prefab
+  artifactKey: Guid(9a815260d221d5148a6982446170b26c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/Low Poly Ultimate Pack/M/- Prefabs_M/Animals_M/cow.prefab using Guid(9a815260d221d5148a6982446170b26c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66403b4e2ce21afe603342a5227b58a5') in 0.045586 seconds
+  Import took 0.055061 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000585 seconds.
+  path: Assets/polyperfect/Low Poly Animated Animals/- Meshes/Animals/Cow/Cow.fbx
+  artifactKey: Guid(327dc5c218e2558479e11db26a172f8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/Low Poly Animated Animals/- Meshes/Animals/Cow/Cow.fbx using Guid(327dc5c218e2558479e11db26a172f8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '958842f616efd007e685dc57c4f9d3c8') in 0.090225 seconds
+  Import took 0.098834 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000419 seconds.
+  path: Assets/polyperfect/Low Poly Animated Animals/- Sounds/cow-moo.ogg
+  artifactKey: Guid(c244c3141607649918f54beb8a706957) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/Low Poly Animated Animals/- Sounds/cow-moo.ogg using Guid(c244c3141607649918f54beb8a706957) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18981772afb067364daa3a6c7f3dee54') in 0.057280 seconds
+  Import took 0.069052 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000397 seconds.
+  path: Assets/polyperfect/Low Poly Animated Animals/- Sounds/cow-background.ogg
+  artifactKey: Guid(c16e73485744543c2b47600223c311f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/Low Poly Animated Animals/- Sounds/cow-background.ogg using Guid(c16e73485744543c2b47600223c311f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dcd82e8bf15089bc0d7c1d4b0cf48268') in 0.045976 seconds
+  Import took 0.054108 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000392 seconds.
+  path: Assets/polyperfect/Low Poly Ultimate Pack/T/- Meshes_T/People_T/man-cowboy.fbx
+  artifactKey: Guid(407186210d7b2436291b13858db60b8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/Low Poly Ultimate Pack/T/- Meshes_T/People_T/man-cowboy.fbx using Guid(407186210d7b2436291b13858db60b8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a2ab97dfea0db54cd0fd349efcab37b') in 0.093056 seconds
+  Import took 0.102210 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000504 seconds.
+  path: Assets/polyperfect/Low Poly Ultimate Pack/T/- Prefabs_T/People_T/man-cowboy.prefab
+  artifactKey: Guid(61380b1f8ab20434b8c9b3cd16fc4fa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/Low Poly Ultimate Pack/T/- Prefabs_T/People_T/man-cowboy.prefab using Guid(61380b1f8ab20434b8c9b3cd16fc4fa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '355a37c69838ef69cdd3bec86309e121') in 0.040362 seconds
+  Import took 0.052740 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000540 seconds.
+  path: Assets/polyperfect/Low Poly Ultimate Pack/T/- Meshes_T/People_T/Rigs_T/man-cowboy_Rig.fbx
+  artifactKey: Guid(c37c613df0196cd4ca37aa4f08489ab2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/Low Poly Ultimate Pack/T/- Meshes_T/People_T/Rigs_T/man-cowboy_Rig.fbx using Guid(c37c613df0196cd4ca37aa4f08489ab2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75265cd91279423f6ba4de12b851c7a8') in 0.091793 seconds
+  Import took 0.103374 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000735 seconds.
+  path: Assets/polyperfect/Low Poly Ultimate Pack/M/- Prefabs_M/People_M/Rigs_M/man-cowboy_Rig.prefab
+  artifactKey: Guid(99e49a175a756a34d97b1c5e2ec6d8d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/Low Poly Ultimate Pack/M/- Prefabs_M/People_M/Rigs_M/man-cowboy_Rig.prefab using Guid(99e49a175a756a34d97b1c5e2ec6d8d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c3bab91c0a7ea2cb93d6687e3ead813') in 0.048532 seconds
+  Import took 0.059883 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000833 seconds.
+  path: Assets/polyperfect/Low Poly Animated Animals/- Sounds/cow-bell.ogg
+  artifactKey: Guid(7a8ecf224348340ea938d9a55928756b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/Low Poly Animated Animals/- Sounds/cow-bell.ogg using Guid(7a8ecf224348340ea938d9a55928756b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3dc45e4ae7eb9e8980fa20fbfec470c') in 0.042767 seconds
+  Import took 0.053781 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000469 seconds.
+  path: Assets/polyperfect/Low Poly Animated Animals/- Prefabs/Animals/Cow Black.prefab
+  artifactKey: Guid(82432984c7cfb7f40af9d8caaf71f926) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/Low Poly Animated Animals/- Prefabs/Animals/Cow Black.prefab using Guid(82432984c7cfb7f40af9d8caaf71f926) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6d4b77a0d10ab57e0c7c4f1f68a259a') in 0.315819 seconds
+  Import took 0.332567 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002652 seconds.
+  path: Assets/polyperfect/Low Poly Animated Animals/- Textures/Animals/Cow_COL_1k.png
+  artifactKey: Guid(4ee17c46deeab43158081bfa2e833c44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/Low Poly Animated Animals/- Textures/Animals/Cow_COL_1k.png using Guid(4ee17c46deeab43158081bfa2e833c44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef9938edda50a937dc29db7a548cd5c7') in 0.084558 seconds
+  Import took 0.097314 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000466 seconds.
+  path: Assets/polyperfect/Low Poly Ultimate Pack/M/- Meshes_M/People_M/man-cowboy.fbx
+  artifactKey: Guid(f90f3adf8321b4e978f4a8a23152ea9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/Low Poly Ultimate Pack/M/- Meshes_M/People_M/man-cowboy.fbx using Guid(f90f3adf8321b4e978f4a8a23152ea9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bcc1ddb0ae2d80d692c9ddd42b54930') in 0.046297 seconds
+  Import took 0.057350 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000508 seconds.
+  path: Assets/polyperfect/Low Poly Animated Animals/- Prefabs/Animals/Cow Brown.prefab
+  artifactKey: Guid(28f32469152e3f64c95c5bc66ae60278) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/Low Poly Animated Animals/- Prefabs/Animals/Cow Brown.prefab using Guid(28f32469152e3f64c95c5bc66ae60278) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45e343434e946169f1a36ed48fadeeca') in 0.288244 seconds
+  Import took 0.301218 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000423 seconds.
+  path: Assets/polyperfect/Low Poly Animated Animals/- Prefabs/Animals/DEMO/Cow.prefab
+  artifactKey: Guid(f33d28b62654f43548073eac88ec2e43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/Low Poly Animated Animals/- Prefabs/Animals/DEMO/Cow.prefab using Guid(f33d28b62654f43548073eac88ec2e43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1878a3cf1d239a85df30dc06304ac44f') in 0.292939 seconds
+  Import took 0.305486 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000392 seconds.
+  path: Assets/polyperfect/Low Poly Animated Animals/- Textures/Animals/Cow_Brown_COL_1k.png
+  artifactKey: Guid(05c27d38aa8474b2c9d82f9439716dfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/Low Poly Animated Animals/- Textures/Animals/Cow_Brown_COL_1k.png using Guid(05c27d38aa8474b2c9d82f9439716dfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a14205ecb6bed40504b4676c4d8f805b') in 0.072473 seconds
+  Import took 0.081798 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000407 seconds.
+  path: Assets/polyperfect/Low Poly Ultimate Pack/T/- Prefabs_T/People_T/Rigs_T/man-cowboy_Rig.prefab
+  artifactKey: Guid(f0217e27b2b26c94b924802eb62cc4c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/Low Poly Ultimate Pack/T/- Prefabs_T/People_T/Rigs_T/man-cowboy_Rig.prefab using Guid(f0217e27b2b26c94b924802eb62cc4c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a22bc9b15ccf1ade4059eab31a697c9') in 0.041437 seconds
+  Import took 0.053733 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000443 seconds.
+  path: Assets/polyperfect/Low Poly Ultimate Pack/T/- Meshes_T/Animals_T/cow.fbx
+  artifactKey: Guid(4c3c77ab423f099488faca39b0edd758) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/Low Poly Ultimate Pack/T/- Meshes_T/Animals_T/cow.fbx using Guid(4c3c77ab423f099488faca39b0edd758) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4bb4675db9b9d5ddeeee4dbfbc58cb0') in 0.069911 seconds
+  Import took 0.079130 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000592 seconds.
+  path: Assets/polyperfect/Low Poly Ultimate Pack/- Materials/Animals/Cow_Black.mat
+  artifactKey: Guid(7c3799f010ff8444da31e10ff7bb27fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/Low Poly Ultimate Pack/- Materials/Animals/Cow_Black.mat using Guid(7c3799f010ff8444da31e10ff7bb27fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68b45b36e0bec57b14f07b68b3d5fe84') in 0.088113 seconds
+  Import took 0.099489 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006424 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 2.50 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.544 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 2.87 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.01 ms.
+Unloading 2347 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 132.1 MB.
+System memory in use after: 130.1 MB.
+
+Unloading 39 unused Assets to reduce memory usage. Loaded Objects now: 2927.
+Total: 19.964500 ms (FindLiveObjects: 1.005200 ms CreateObjectMapping: 0.208300 ms MarkObjects: 15.011900 ms  DeleteObjects: 3.735000 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

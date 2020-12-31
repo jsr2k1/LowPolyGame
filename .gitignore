@@ -1,0 +1,7 @@
+.vsconfig
+Assembly-CSharp.csproj
+Assembly-CSharp-Editor.csproj
+LowPolyGame.sln
+.vs/
+Library/
+Temp/
