@@ -1,0 +1,475 @@
+fileFormatVersion: 2
+guid: 495c49394ffa04bc99a138bf054017ed
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Root
+  - first:
+      1: 100002
+    second: wagon--wheel1
+  - first:
+      1: 100004
+    second: wagon--wheel1 1
+  - first:
+      1: 100006
+    second: wagon--wheel1_end
+  - first:
+      1: 100008
+    second: wagon--wheel2
+  - first:
+      1: 100010
+    second: wagon--wheel2 1
+  - first:
+      1: 100012
+    second: wagon--wheel2_end
+  - first:
+      1: 100014
+    second: wagon--wheel3
+  - first:
+      1: 100016
+    second: wagon--wheel3 1
+  - first:
+      1: 100018
+    second: wagon--wheel3_end
+  - first:
+      1: 100020
+    second: wagon--wheel4
+  - first:
+      1: 100022
+    second: wagon--wheel4 1
+  - first:
+      1: 100024
+    second: wagon--wheel4_end
+  - first:
+      1: 100026
+    second: wagon--wheels1
+  - first:
+      1: 100028
+    second: wagon--wheels1 1
+  - first:
+      1: 100030
+    second: wagon--wheels2
+  - first:
+      1: 100032
+    second: wagon--wheels2 1
+  - first:
+      1: 100034
+    second: wagon-western
+  - first:
+      1: 100036
+    second: //RootNode
+  - first:
+      1: 100038
+    second: wagon-western-base
+  - first:
+      1: 100040
+    second: wagon-wheel-base1
+  - first:
+      1: 100042
+    second: wagon-wheel-base2
+  - first:
+      1: 100044
+    second: wagon-wheel1
+  - first:
+      1: 100046
+    second: wagon-wheel2
+  - first:
+      1: 100048
+    second: wagon-wheel3
+  - first:
+      1: 100050
+    second: wagon-wheel4
+  - first:
+      4: 400000
+    second: Root
+  - first:
+      4: 400002
+    second: wagon--wheel1
+  - first:
+      4: 400004
+    second: wagon--wheel1 1
+  - first:
+      4: 400006
+    second: wagon--wheel1_end
+  - first:
+      4: 400008
+    second: wagon--wheel2
+  - first:
+      4: 400010
+    second: wagon--wheel2 1
+  - first:
+      4: 400012
+    second: wagon--wheel2_end
+  - first:
+      4: 400014
+    second: wagon--wheel3
+  - first:
+      4: 400016
+    second: wagon--wheel3 1
+  - first:
+      4: 400018
+    second: wagon--wheel3_end
+  - first:
+      4: 400020
+    second: wagon--wheel4
+  - first:
+      4: 400022
+    second: wagon--wheel4 1
+  - first:
+      4: 400024
+    second: wagon--wheel4_end
+  - first:
+      4: 400026
+    second: wagon--wheels1
+  - first:
+      4: 400028
+    second: wagon--wheels1 1
+  - first:
+      4: 400030
+    second: wagon--wheels2
+  - first:
+      4: 400032
+    second: wagon--wheels2 1
+  - first:
+      4: 400034
+    second: wagon-western
+  - first:
+      4: 400036
+    second: //RootNode
+  - first:
+      4: 400038
+    second: wagon-western-base
+  - first:
+      4: 400040
+    second: wagon-wheel-base1
+  - first:
+      4: 400042
+    second: wagon-wheel-base2
+  - first:
+      4: 400044
+    second: wagon-wheel1
+  - first:
+      4: 400046
+    second: wagon-wheel2
+  - first:
+      4: 400048
+    second: wagon-wheel3
+  - first:
+      4: 400050
+    second: wagon-wheel4
+  - first:
+      23: 2300000
+    second: wagon--wheel1 1
+  - first:
+      23: 2300002
+    second: wagon--wheel2 1
+  - first:
+      23: 2300004
+    second: wagon--wheel3 1
+  - first:
+      23: 2300006
+    second: wagon--wheel4 1
+  - first:
+      23: 2300008
+    second: wagon--wheels1 1
+  - first:
+      23: 2300010
+    second: wagon--wheels2 1
+  - first:
+      23: 2300012
+    second: wagon-western
+  - first:
+      23: 2300014
+    second: wagon-western-base
+  - first:
+      23: 2300016
+    second: wagon-wheel-base1
+  - first:
+      23: 2300018
+    second: wagon-wheel-base2
+  - first:
+      23: 2300020
+    second: wagon-wheel1
+  - first:
+      23: 2300022
+    second: wagon-wheel2
+  - first:
+      23: 2300024
+    second: wagon-wheel3
+  - first:
+      23: 2300026
+    second: wagon-wheel4
+  - first:
+      33: 3300000
+    second: wagon--wheel1 1
+  - first:
+      33: 3300002
+    second: wagon--wheel2 1
+  - first:
+      33: 3300004
+    second: wagon--wheel3 1
+  - first:
+      33: 3300006
+    second: wagon--wheel4 1
+  - first:
+      33: 3300008
+    second: wagon--wheels1 1
+  - first:
+      33: 3300010
+    second: wagon--wheels2 1
+  - first:
+      33: 3300012
+    second: wagon-western
+  - first:
+      33: 3300014
+    second: wagon-western-base
+  - first:
+      33: 3300016
+    second: wagon-wheel-base1
+  - first:
+      33: 3300018
+    second: wagon-wheel-base2
+  - first:
+      33: 3300020
+    second: wagon-wheel1
+  - first:
+      33: 3300022
+    second: wagon-wheel2
+  - first:
+      33: 3300024
+    second: wagon-wheel3
+  - first:
+      33: 3300026
+    second: wagon-wheel4
+  - first:
+      43: 4300000
+    second: wagon-western
+  - first:
+      43: 4300002
+    second: wagon--wheels2
+  - first:
+      43: 4300004
+    second: wagon--wheel3
+  - first:
+      43: 4300006
+    second: wagon--wheel4
+  - first:
+      43: 4300008
+    second: wagon--wheels1
+  - first:
+      43: 4300010
+    second: wagon--wheel2
+  - first:
+      43: 4300012
+    second: wagon--wheel1
+  - first:
+      43: 4300014
+    second: wagon-western-base
+  - first:
+      43: 4300016
+    second: wagon-wheel-base1
+  - first:
+      43: 4300018
+    second: wagon-wheel2
+  - first:
+      43: 4300020
+    second: wagon-wheel1
+  - first:
+      43: 4300022
+    second: wagon-wheel-base2
+  - first:
+      43: 4300024
+    second: wagon-wheel4
+  - first:
+      43: 4300026
+    second: wagon-wheel3
+  - first:
+      74: 7400000
+    second: WagonRig|WagonDrive
+  - first:
+      74: 7400002
+    second: WagonRig|WagonDrive.001
+  - first:
+      74: 7400004
+    second: wagon-western|WagonDrive.001
+  - first:
+      74: 7400006
+    second: wagon--wheel2|WagonDrive.001
+  - first:
+      74: 7400008
+    second: wagon--wheel1|WagonDrive.001
+  - first:
+      74: 7400010
+    second: wagon--wheel3|WagonDrive.001
+  - first:
+      74: 7400012
+    second: wagon--wheel4|WagonDrive.001
+  - first:
+      95: 9500000
+    second: //RootNode
+  externalObjects: {}
+  materials:
+    materialImportMode: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: WagonRig|WagonDrive
+      takeName: WagonRig|WagonDrive
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/wagon--wheels1
+        weight: 1
+      - path: Root/wagon--wheels1/wagon--wheel1
+        weight: 1
+      - path: Root/wagon--wheels1/wagon--wheel1/wagon--wheel1 1
+        weight: 1
+      - path: Root/wagon--wheels1/wagon--wheel1/wagon--wheel1_end
+        weight: 1
+      - path: Root/wagon--wheels1/wagon--wheel2
+        weight: 1
+      - path: Root/wagon--wheels1/wagon--wheel2/wagon--wheel2 1
+        weight: 1
+      - path: Root/wagon--wheels1/wagon--wheel2/wagon--wheel2_end
+        weight: 1
+      - path: Root/wagon--wheels1/wagon--wheels1 1
+        weight: 1
+      - path: Root/wagon--wheels2
+        weight: 1
+      - path: Root/wagon--wheels2/wagon--wheel3
+        weight: 1
+      - path: Root/wagon--wheels2/wagon--wheel3/wagon--wheel3 1
+        weight: 1
+      - path: Root/wagon--wheels2/wagon--wheel3/wagon--wheel3_end
+        weight: 1
+      - path: Root/wagon--wheels2/wagon--wheel4
+        weight: 1
+      - path: Root/wagon--wheels2/wagon--wheel4/wagon--wheel4 1
+        weight: 1
+      - path: Root/wagon--wheels2/wagon--wheel4/wagon--wheel4_end
+        weight: 1
+      - path: Root/wagon--wheels2/wagon--wheels2 1
+        weight: 1
+      - path: Root/wagon-western
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 20
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 0
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
