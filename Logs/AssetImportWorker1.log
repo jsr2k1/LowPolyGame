@@ -1,0 +1,183 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.1f1 (270dd8c3da1c) revision 2559448'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.0) 64bit' Language: 'es' Physical Memory: 8191 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity2019.4.17f1\2020.2.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+C:/Users/Joel/Unity Projects/LowPolyGame
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+64854
+Successfully changed project path to: C:/Users/Joel/Unity Projects/LowPolyGame
+C:/Users/Joel/Unity Projects/LowPolyGame
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 205.48 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.1f1 (270dd8c3da1c)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity2019.4.17f1/2020.2.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Joel/Unity Projects/LowPolyGame/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 550 Ti (ID=0x1244)
+    Vendor:   
+    VRAM:     977 MB
+    Driver:   21.21.13.7654
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity2019.4.17f1/2020.2.1f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity2019.4.17f1/2020.2.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity2019.4.17f1/2020.2.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56620
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity2019.4.17f1/2020.2.1f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity2019.4.17f1/2020.2.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004611 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 212.89 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.145 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.005190 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 226.42 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.960 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.09 seconds
+Refreshing native plugins compatible for Editor in 2.46 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2443 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 211.6 MB.
+System memory in use after: 209.9 MB.
+
+Unloading 39 unused Assets to reduce memory usage. Loaded Objects now: 2884.
+Total: 6.798900 ms (FindLiveObjects: 0.607800 ms CreateObjectMapping: 0.153400 ms MarkObjects: 3.744100 ms  DeleteObjects: 2.291200 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/polyperfect/Low Poly Ultimate Pack/M/- Meshes_M/Nature_M/Flowers_M/cactus-basic.fbx
+  artifactKey: Guid(5e83b32f3466de74280e7e860d2c8ec2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/Low Poly Ultimate Pack/M/- Meshes_M/Nature_M/Flowers_M/cactus-basic.fbx using Guid(5e83b32f3466de74280e7e860d2c8ec2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1563104297de5ce27dd90a46f649ee55') in 0.563261 seconds
+  Import took 0.572871 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000440 seconds.
+  path: Assets/polyperfect/Low Poly Ultimate Pack/T/- Meshes_T/Nature_T/cactus-basic.fbx
+  artifactKey: Guid(d796499ad80f248c18d7154c2adb502c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/Low Poly Ultimate Pack/T/- Meshes_T/Nature_T/cactus-basic.fbx using Guid(d796499ad80f248c18d7154c2adb502c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31271ad746aa708ec8e0da59fb68cc5c') in 0.054501 seconds
+  Import took 0.064211 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000611 seconds.
+  path: Assets/polyperfect/Low Poly Ultimate Pack/M/- Meshes_M/Nature_M/Flowers_M/cactus-big.fbx
+  artifactKey: Guid(447d84497a9198240b13e618015173eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/Low Poly Ultimate Pack/M/- Meshes_M/Nature_M/Flowers_M/cactus-big.fbx using Guid(447d84497a9198240b13e618015173eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '690e7c6617db57bc558426e72a6dbc92') in 0.106743 seconds
+  Import took 0.117041 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000616 seconds.
+  path: Assets/polyperfect/Low Poly Ultimate Pack/M/- Meshes_M/Nature_M/Flowers_M/cactus-medium.fbx
+  artifactKey: Guid(dbfef120250c1754f855004582082881) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/Low Poly Ultimate Pack/M/- Meshes_M/Nature_M/Flowers_M/cactus-medium.fbx using Guid(dbfef120250c1754f855004582082881) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99557baecaa97ee2edeb1153828ce570') in 0.099375 seconds
+  Import took 0.111034 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000585 seconds.
+  path: Assets/polyperfect/Low Poly Ultimate Pack/T/- Meshes_T/Nature_T/cactus-medium.fbx
+  artifactKey: Guid(cb647423bf60d41248701a997f6a1b32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/Low Poly Ultimate Pack/T/- Meshes_T/Nature_T/cactus-medium.fbx using Guid(cb647423bf60d41248701a997f6a1b32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19b02ce5c45d3079ab6a71c2e48c0941') in 0.096546 seconds
+  Import took 0.107004 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000480 seconds.
+  path: Assets/polyperfect/Low Poly Animated Animals/- Meshes/Nature/cactus-big.fbx
+  artifactKey: Guid(38fe9b39d6e2d48e1b63a5393482e73b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/Low Poly Animated Animals/- Meshes/Nature/cactus-big.fbx using Guid(38fe9b39d6e2d48e1b63a5393482e73b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ed1c29061417add0cb8dc9accde5f80') in 0.071586 seconds
+  Import took 0.081255 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000567 seconds.
+  path: Packages/com.unity.shadergraph/Editor/Resources/UXML/PixelCacheProfiler.uxml
+  artifactKey: Guid(0fda1aff5a5744478f70542e95fd3d42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.shadergraph/Editor/Resources/UXML/PixelCacheProfiler.uxml using Guid(0fda1aff5a5744478f70542e95fd3d42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96778546d8637644ddda20ad6b988c44') in 0.041978 seconds
+  Import took 0.051580 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000407 seconds.
+  path: Assets/polyperfect/Low Poly Ultimate Pack/T/- Meshes_T/Nature_T/cactus-big.fbx
+  artifactKey: Guid(61e004408a6424d3db66daf8a66f595b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/Low Poly Ultimate Pack/T/- Meshes_T/Nature_T/cactus-big.fbx using Guid(61e004408a6424d3db66daf8a66f595b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a031d4cc1477aa03190147c43714d7f') in 0.073934 seconds
+  Import took 0.082936 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000386 seconds.
+  path: Packages/com.unity.shadergraph/Editor/Resources/Styles/PixelCacheProfiler.uss
+  artifactKey: Guid(61cf67e9c1f54ceab08d2bd16ffd3c53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.shadergraph/Editor/Resources/Styles/PixelCacheProfiler.uss using Guid(61cf67e9c1f54ceab08d2bd16ffd3c53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae30b804e9f79c7463311522938c3204') in 0.017959 seconds
+  Import took 0.027931 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 550.886715 seconds.
+  path: Assets/JOEL/Test/test gi.unity
+  artifactKey: Guid(f5fd6789ad204ae479e558b0945ea094) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JOEL/Test/test gi.unity using Guid(f5fd6789ad204ae479e558b0945ea094) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88b2c98be20d86034a85692be0121a43') in 0.019366 seconds
+  Import took 0.032354 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1942.291976 seconds.
+  path: Assets/JOEL/Scenes/Japan/Japan.unity
+  artifactKey: Guid(4c66ff097d981d4428d148787fed29ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JOEL/Scenes/Japan/Japan.unity using Guid(4c66ff097d981d4428d148787fed29ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a5cf1d05828b670d322ff380cc5b3f3') in 0.092169 seconds
+  Import took 0.349130 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 811.800784 seconds.
+  path: Assets/New Lighting Settings.lighting
+  artifactKey: Guid(335c38c06a505da4695f23d06fcbdc61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Lighting Settings.lighting using Guid(335c38c06a505da4695f23d06fcbdc61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf3d6b59949c2fd18d1438c91f766506') in 0.081427 seconds
+  Import took 0.094267 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.406442 seconds.
+  path: Assets/JOEL/Scenes/Japan/Japan.lighting
+  artifactKey: Guid(bd371898cad446241aadfe4a1a3022f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JOEL/Scenes/Japan/Japan.lighting using Guid(bd371898cad446241aadfe4a1a3022f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d4784370f4779b01c9fa8275551a579') in 0.020368 seconds
+  Import took 0.032550 seconds .
+
