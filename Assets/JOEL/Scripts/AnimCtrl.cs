@@ -10,6 +10,13 @@ public class AnimCtrl : MonoBehaviour
         WALK
     }
     public States currentState;
+    public string sleep;
+    public string walk;
+    public float time_sleep = 4f;
+    public float time_stand = 12f;
+    public float time_walk_1 = 4f;
+    public float time_walk_2 = 0.25f;
+
     public Transform[] points;
     
     int destPoint = 0;
@@ -30,7 +37,7 @@ public class AnimCtrl : MonoBehaviour
     void Update()
     {
         if(currentState == States.WALK && !agent.pathPending && agent.remainingDistance < 0.5f) {
-            animator.SetBool("isWalking", false);
+            animator.SetBool(walk, false);
             currentState = States.IDLE;
             StartCoroutine(GoToSleep());
         }
@@ -39,26 +46,26 @@ public class AnimCtrl : MonoBehaviour
     /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     IEnumerator GoToSleep()
     {
-        yield return new WaitForSeconds(4f);
-        animator.SetBool("isSleeping", true);
+        yield return new WaitForSeconds(time_sleep);
+        animator.SetBool(sleep, true);
         StartCoroutine(GoToStandUp());
     }
 
     /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     IEnumerator GoToStandUp()
     {
-        yield return new WaitForSeconds(12f);
+        yield return new WaitForSeconds(time_stand);
         transform.LookAt(points[destPoint]);
-        animator.SetBool("isSleeping", false);
+        animator.SetBool(sleep, false);
         StartCoroutine(GoToWalk());
     }
 
     /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     IEnumerator GoToWalk()
     {
-        yield return new WaitForSeconds(4f);
-        animator.SetBool("isWalking", true);
-        yield return new WaitForSeconds(0.25f);
+        yield return new WaitForSeconds(time_walk_1);
+        animator.SetBool(walk, true);
+        yield return new WaitForSeconds(time_walk_2);
         currentState = States.WALK;
         GotoNextPoint();
     }
